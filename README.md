@@ -1,2 +1,3 @@
 # Drum-App
-A drum simulator
+This is an app in which you can enjoy playing with drums. 
+
